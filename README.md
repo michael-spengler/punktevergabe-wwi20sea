@@ -3,7 +3,7 @@
 ## Allgemeines Feedback 
 Die Studierenden haben die beiden Semester (5 & 6) m.E. hervorragend genutzt, um innovative Konzepte und Technologien im Rahmen der Entwicklung mobiler Applikationen zu erkunden.   
 
-Neben vielen konkreten Technologien ging es mir insbesondere darum den Studierenden Erfahrungsräume aufzuspannen innerhalb derer sie die Entwicklung mobiler Applikationen konkret im Kontext von aktuellen Megatrends im Bereich des Software Engineerings erkunden konnten. So wurde beispielsweise der aktuelle Megatrend hin zu immer mehr **Open Source Software** und der Megatrend hin zu mehr **Dezentralisierung (Web3)** ins Kalkül genommen und kreativ genutzt und mitgestaltet.  
+Neben vielen konkreten Technologien ging es mir insbesondere darum den Studierenden Erfahrungsräume aufzuspannen innerhalb derer sie die Entwicklung mobiler Applikationen konkret im Kontext von aktuellen Megatrends im Bereich des Software Engineerings erkunden konnten. So wurde beispielsweise der aktuelle Megatrend hin zu mehr **Open Source Software** und der Megatrend hin zu mehr **Dezentralisierung (Web3)** ins Kalkül genommen und kreativ genutzt und mitgestaltet.  
 
 Um die Lernziele möglichst effizient zu erreichen und die Lernerfahrungen mit Begeisterung zu kombinieren hatten die Studierenden bei der Gestaltung der konkreten Projekte sehr viele Freiräume, welchen sie aus meiner Perspektive gut genutzt haben. 
 
@@ -47,6 +47,9 @@ Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertun
 ## Genutzte Notenskala
 https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
 
+## Empfehlung bzw. Reminder für die Zukunft
+Da viele der konkreten Technologien dynamisch im Zeitablauf durch andere Technologien (Plattformen, Frameworks, Laufzeitumgebungen, ...) ersetzt werden, empfehle ich stets weiterhin das Thema **Design for Flexibility** hochzuhalten. Hierbei kann es helfen Artefakte extrem modular (Beispiele siehe u.A. https://deno.land gute 3rd Party Modules...) zu gestalten und bereitzustellen um die einzelnen Module bei Bedarf leicht auszutauschen / wiederzuverwenden. 
+Ich spreche diesen Punkt hier so ausdrücklich an weil dieser in der Praxis genauso wie die Testautomatisierung häufig links liegen gelassen wird. Bei der Testautomatisierung weiß es m.E. schon jeder, dass es lediglich an Disziplin fehlt. Zum Punkt der Testautomatisierung ist der [OData Parser](https://github.com/gang-of-fork/odatafy-parser/blob/dev/test/parsing/topParser.test.ts) der Gang of Fork m.E. eines der vorbildlichsten Projekte.
 
 ## Danke
 Herzlichen Dank an alle Beteiligten. Ihr wart einer meiner Top 2 Lieblingskurse in meiner bisherigen DHBW Karriere. 
