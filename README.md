@@ -25,7 +25,7 @@ Jedes Teammitglied hat erfolgreich zum Projekt beigetragen (e.g. erkennbar an de
 
 ## Feedbacks
 Die Feedbacks, welche ich im Laufe der Semester zu den einzelnen Projekten gegeben habe, wurden von den Studierenden ausdauernd aufgegriffen, geprüft und reflektiert. Diese Feedbacks führten fast immer zu sehr zeitnahen Optimierungen bzw. Ergänzungen innerhalb der jeweiligen Repositories. 
-Das Interesse, die Begeisterung und die Überzeugung seitens der Studierenden an wertvollen Projekten (mit nach bestem Wissen und Gewissen den am besten passenden Werkzeugen) zu arbeiten hat dazu geführt dass die den Projekten sehr viel mehr Zeit geschenkt wurde als dies laut Stundenplan der Studierenden erwartbar gewesen wäre. 
+Das Interesse, die Begeisterung und die Überzeugung seitens der Studierenden an wertvollen Projekten (mit nach bestem Wissen und Gewissen den am besten passenden Werkzeugen) zu arbeiten hat dazu geführt dass den Projekten sehr viel mehr Zeit geschenkt wurde als dies laut Stundenplan der Studierenden erwartbar gewesen wäre. 
 
 Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertung der Artefakte kann ich daher nicht anders als die folgenden sehr guten Noten zu geben. 
 
