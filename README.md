@@ -3,7 +3,7 @@
 ## Rahmenbedingungen 
 Die Studierenden haben die beiden Semester (5 & 6) m.E. hervorragend genutzt, um innovative Konzepte und Technologien im Rahmen der Entwicklung mobiler Applikationen zu erkunden.   
 
-Neben vielen konkreten Technologien ging es mir insbesondere darum den Studierenden Erfahrungsräume aufzuspannen innerhalb derer sie die Entwicklung mobiler Applikationen konkret im Kontext von aktuellen Megatrends im Bereich des Software Engineerings erkunden konnten. So wurden beispielsweise die aktuellen Megatrends hin zu immer mehr **Open Source Software** und der Megatrend hin zu mehr **Dezentralisierung (Web3)** ins Kalkül genommen und kreativ genutzt und mitgestaltet.  
+Neben vielen konkreten Technologien ging es mir insbesondere darum den Studierenden Erfahrungsräume aufzuspannen innerhalb derer sie die Entwicklung mobiler Applikationen konkret im Kontext von aktuellen Megatrends im Bereich des Software Engineerings erkunden konnten. So wurde beispielsweise der aktuelle Megatrend hin zu immer mehr **Open Source Software** und der Megatrend hin zu mehr **Dezentralisierung (Web3)** ins Kalkül genommen und kreativ genutzt und mitgestaltet.  
 
 Um die Lernziele möglichst effizient zu erreichen und die Lernerfahrungen mit Begeisterung zu kombinieren hatten die Studierenden bei der Gestaltung der konkreten Projekte sehr viele Freiräume, welchen sie aus meiner Perspektive gut genutzt haben. 
 
@@ -23,6 +23,14 @@ Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in ei
 Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei) 
 Jedes Teammitglied hat erfolgreich zum Projekt beigetragen (e.g. erkennbar an der Commit Historie...) 
 
+## Feedbacks
+Die Feedbacks, welche ich im Laufe der Semester zu den einzelnen Projekten gegeben habe, wurden von den Studierenden ausdauernd aufgegriffen, geprüft und reflektiert. Diese Feedbacks führten fast immer zu sehr zeitnahen Optimierungen bzw. Ergänzungen innerhalb der jeweiligen Repositories. 
+Das Interesse, die Begeisterung und die Überzeugung seitens der Studierenden an wertvollen Projekten (mit nach bestem Wissen und Gewissen den am besten passenden Werkzeugen) zu arbeiten hat dazu geführt dass die den Projekten sehr viel mehr Zeit geschenkt wurde als dies laut Stundenplan der Studierenden erwartbar gewesen wäre. 
+
+Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertung der Artefakte kann ich daher nicht anders als die folgenden sehr guten Noten zu geben. 
+
+Herzlichen Dank an alle Beteiligten. Ihr wart einer meiner Top 2 Lieblingskurse in meiner bisherigen DHBW Karriere. 
+
 
 ## Projekt- / Linksammlung
 | Name | Projektsammlung | Punkte | Note |
@@ -35,5 +43,6 @@ Jedes Teammitglied hat erfolgreich zum Projekt beigetragen (e.g. erkennbar an de
 | Florian Hase  | https://github.com/App-Entwicklung | | |
 | Rebekka Miguez  | https://github.com/App-Entwicklung | | |
 | Matthias Biermanns  | https://github.com/App-Entwicklung | | |
+
 
 
