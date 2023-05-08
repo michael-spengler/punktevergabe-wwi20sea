@@ -29,7 +29,6 @@ Das Interesse, die Begeisterung und die Überzeugung seitens der Studierenden an
 
 Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertung der Artefakte kann ich daher nicht anders als die folgenden sehr guten Noten zu geben. 
 
-Herzlichen Dank an alle Beteiligten. Ihr wart einer meiner Top 2 Lieblingskurse in meiner bisherigen DHBW Karriere. 
 
 
 ## Projekt- / Linksammlung
@@ -45,4 +44,10 @@ Herzlichen Dank an alle Beteiligten. Ihr wart einer meiner Top 2 Lieblingskurse 
 | Matthias Biermanns  | https://github.com/App-Entwicklung | | |
 
 
+## Genutzte Notenskala
+https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
+
+
+## Danke
+Herzlichen Dank an alle Beteiligten. Ihr wart einer meiner Top 2 Lieblingskurse in meiner bisherigen DHBW Karriere. 
 
