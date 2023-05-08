@@ -1,13 +1,13 @@
-# Punktevergabe WWI20SEA
+# Punktevergabeprozess WWI20SEA
 
-## Rahmenbedingungen 
+## Allgemeines Feedback 
 Die Studierenden haben die beiden Semester (5 & 6) m.E. hervorragend genutzt, um innovative Konzepte und Technologien im Rahmen der Entwicklung mobiler Applikationen zu erkunden.   
 
 Neben vielen konkreten Technologien ging es mir insbesondere darum den Studierenden Erfahrungsräume aufzuspannen innerhalb derer sie die Entwicklung mobiler Applikationen konkret im Kontext von aktuellen Megatrends im Bereich des Software Engineerings erkunden konnten. So wurde beispielsweise der aktuelle Megatrend hin zu immer mehr **Open Source Software** und der Megatrend hin zu mehr **Dezentralisierung (Web3)** ins Kalkül genommen und kreativ genutzt und mitgestaltet.  
 
 Um die Lernziele möglichst effizient zu erreichen und die Lernerfahrungen mit Begeisterung zu kombinieren hatten die Studierenden bei der Gestaltung der konkreten Projekte sehr viele Freiräume, welchen sie aus meiner Perspektive gut genutzt haben. 
 
-## Besondere Herausforderungen
+## Besondere Herausforderungen für die Studierenden
 Weite Teile der aktuell einflussreichen politischen Kaste verursachten in der jüngeren Vergangenheit einige Rückschläge seitens einiger Crypto- / Web3 Startups und dadurch auch seitens einiger Web3 Technologien bzw. Web3 Tools. Das hat die Studierenden auch insofern mit beeinflusst als dass viele der Web3 Tools aktuell in einem schlechten Maintenance- und Dokumentationszustand sind was natürlich den Fortschritt im Hinblick auf die Umsetzung einiger Aspekte stark verlangsamt hat (z.B. "https://flutter.dev not ready for web3" uvm.). Die Studierenden blieben fast immer mutig und haben kreativ nach Workarounds etc. gesucht und fast immer auch weitgehend passende Workarounds gefunden.
 
 
