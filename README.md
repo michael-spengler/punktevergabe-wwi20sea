@@ -8,20 +8,20 @@ Neben vielen konkreten Technologien ging es mir insbesondere darum den Studieren
 Um die Lernziele möglichst effizient zu erreichen und die Lernerfahrungen mit Begeisterung zu kombinieren hatten die Studierenden bei der Gestaltung der konkreten Projekte sehr viele Freiräume, welchen sie aus meiner Perspektive gut genutzt haben. 
 
 ## Besondere Herausforderungen
-Weite Teile der aktuell einflussreichen politischen Kaste verursachten in der jüngeren Vergangenheit einige Rückschläge seitens einiger Crypto- / Web3 Startups und dadurch auch seitens einiger Web3 Technologien bzw. Web3 Tools. Das hat die Studierenden auch insofern mit beeinflusst als dass viele der Web3 Tools aktuell in einem schlechten Maintenance- und Dokumentationszustand sind was natürlich den Fortschritt im Hinblick auf die Umsetzung einiger Aspekte stark verlangsamt hat (z.B. "https://flutter.dev not ready for web3" uvm.). Die Studierenden blieben fast immer mutig und haben kreativ nach workarounds etc. gesucht und fast immer auch weitgehend passende workarounds gefunden.
+Weite Teile der aktuell einflussreichen politischen Kaste verursachten in der jüngeren Vergangenheit einige Rückschläge seitens einiger Crypto- / Web3 Startups und dadurch auch seitens einiger Web3 Technologien bzw. Web3 Tools. Das hat die Studierenden auch insofern mit beeinflusst als dass viele der Web3 Tools aktuell in einem schlechten Maintenance- und Dokumentationszustand sind was natürlich den Fortschritt im Hinblick auf die Umsetzung einiger Aspekte stark verlangsamt hat (z.B. "https://flutter.dev not ready for web3" uvm.). Die Studierenden blieben fast immer mutig und haben kreativ nach Workarounds etc. gesucht und fast immer auch weitgehend passende Workarounds gefunden.
 
 
 ## Bewertungskriterien
-Ein repräsentatives Value Proposition Canvas wurde angefertigt 
-Die User Stories sind klar dokumentiert 
-Die App funktioniert performant und fehlerfrei 
-Die App bietet eine gute User Experience (mit wenigen "clicks" ... zum gewünschten Ergebnis...) 
-Die App ist sicher (Datenschutz, need to know prinzip etc. / Möglichst resistent gegenüber (D)DOS Attacks etc.) 
-Hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests --> leichte Wartbarkeit...) 
-Continuous Integration / Continuous Deployment ist sauber automatisiert (z.B. via GitHub Actions) 
-Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer learnings.md Datei) 
-Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei) 
-Jedes Teammitglied hat erfolgreich zum Projekt beigetragen (e.g. erkennbar an der Commit Historie...) 
+Ein repräsentatives Value Proposition Canvas wurde angefertigt  
+Die User Stories sind klar dokumentiert  
+Die App funktioniert performant und fehlerfrei  
+Die App bietet eine gute User Experience (mit wenigen "clicks" ... zum gewünschten Ergebnis...)  
+Die App ist sicher (Datenschutz, need to know prinzip etc. / Möglichst resistent gegenüber (D)DOS Attacks etc.)  
+Hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests --> leichte Wartbarkeit...)  
+Continuous Integration / Continuous Deployment ist sauber automatisiert (z.B. via GitHub Actions)  
+Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer learnings.md Datei)  
+Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei)  
+Jedes Teammitglied hat erfolgreich zum Projekt beigetragen (e.g. erkennbar an der Commit Historie...)  
 
 ## Feedbacks
 Die Feedbacks, welche ich im Laufe der Semester zu den einzelnen Projekten gegeben habe, wurden von den Studierenden ausdauernd aufgegriffen, geprüft und reflektiert. Diese Feedbacks führten fast immer zu sehr zeitnahen Optimierungen bzw. Ergänzungen innerhalb der jeweiligen Repositories. 
