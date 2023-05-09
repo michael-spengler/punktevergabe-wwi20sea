@@ -43,7 +43,10 @@ Insgesamt könnt ihr Euch angewöhnen viel mehr Links in den einzelnen README Da
 
 
 ### Decentralized Chat App
-Da wir die einzelnen Bewertungskriterien bei Euch sehr häufig gemeinsam durchgegangen sind, scheint mir an dieser Stelle nichts mehr groß hinzuzufügen. Toll dass ihr trotz der vielen web3 spezifischen Tool Challenges am Ball geblieben seid. Ich würde mich freuen wenn wir dem Thema Deployment auf Polygon und oder Arbitrum weiter nachgehen, um die Decentralized Chatapp kostengünstig produktiv nutzbar zu machen.
+Da wir die einzelnen Bewertungskriterien bei Euch sehr häufig gemeinsam durchgegangen sind, scheint mir an dieser Stelle nichts mehr groß hinzuzufügen. Toll dass ihr trotz der vielen web3 spezifischen Tool Challenges am Ball geblieben seid. Ich würde mich freuen wenn wir dem Thema Deployment auf Polygon und oder Arbitrum weiter nachgehen, um die Decentralized Chatapp kostengünstig produktiv nutzbar zu machen. 
+Euren Umgang mit den vielen Challenges mit den Testnets lasse ich zusätzlich positiv in die Bewertung einfließen.  
+https://polygonscan.com/tx/0x7bba1e639bd1e216039e353a29420e0e36dcafd5a7b0cc40389d0a828d8ac94c sollte eigentlich den ChatApp Smart Contract korrekt auf Polygon deployed haben. ... Hier können wir vielleicht bei Gelegenheit weiterforschen.
+
 
 Auch bei Euch ist m.E. der "Single Point of Entry" / bzw. die "Forward Navigation" (z.B. via https://github.com/App-Entwicklung/Pruefungsleistung) optimierungsfähig. So wäre z.B. von hier aus https://github.com/App-Entwicklung/Pruefungsleistung/blob/main/svelte_documentation.md beispielsweise ein Link zur deployten App oder eine Beschreibung wie ein möglicher contributor das frontend lokal startet hilfreich. Für die Flutter App habt ihr das gut gemacht (siehe https://github.com/App-Entwicklung/Pruefungsleistung/blob/main/flutter_documentation.md). Gleichzeitig weiß ich dass die svelte app nur ein workaround war weil flutter zumindest im aktuellen Zustand nicht web3 ready ist.
 
@@ -60,10 +63,10 @@ Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertun
 | Robin Reyer  | https://github.com/gang-of-fork | 116 (1,2) |
 | Steffen Huels  | https://github.com/gang-of-fork | 116 (1,2) |
 | Maik Kebernik  | https://github.com/gang-of-fork | 116 (1,2) |
-| Patrick Vollstedt  | https://github.com/App-Entwicklung | 117 (1,1) |
-| Florian Hase  | https://github.com/App-Entwicklung | 117 (1,1) |
-| Rebekka Miguez  | https://github.com/App-Entwicklung | 117 (1,1) |
-| Matthias Biermanns  | https://github.com/App-Entwicklung | 117 (1,1) |
+| Patrick Vollstedt  | https://github.com/App-Entwicklung | 118 (1,1) |
+| Florian Hase  | https://github.com/App-Entwicklung | 118 (1,1) |
+| Rebekka Miguez  | https://github.com/App-Entwicklung | 118 (1,1) |
+| Matthias Biermanns  | https://github.com/App-Entwicklung | 118 (1,1) |
 
 
 ## Genutzte Notenskala
