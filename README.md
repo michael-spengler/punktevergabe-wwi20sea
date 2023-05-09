@@ -23,25 +23,47 @@ Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in ei
 Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei)  
 Jedes Teammitglied hat erfolgreich zum Projekt beigetragen (e.g. erkennbar an der Commit Historie...)  
 
-## Feedbacks
+## Umsetzung von Feedbacks
 Die Feedbacks, welche ich im Laufe der Semester zu den einzelnen Projekten gegeben habe, wurden von den Studierenden ausdauernd aufgegriffen, geprüft und reflektiert. Diese Feedbacks führten fast immer zu sehr zeitnahen Optimierungen bzw. Ergänzungen innerhalb der jeweiligen Repositories. 
-Das Interesse, die Begeisterung und die Überzeugung seitens der Studierenden an wertvollen Projekten (mit nach bestem Wissen und Gewissen den am besten passenden Werkzeugen) zu arbeiten hat dazu geführt dass den Projekten sehr viel mehr Zeit geschenkt wurde als dies laut Stundenplan der Studierenden erwartbar gewesen wäre. 
 
+
+
+## Abschlussbewertung & Offen gebliebene Punkte
+### Gang of Fork
+Bei der Abschlussbewertung bin ich durch die unterschiedlichen Repositories gegangen. Das war in Ordnung für mich, da ich die Zusammenhänge zwischen den einzelnen Repositories kenne. Für jemanden, der diese Zusammenhänge nicht kennt und auch für Euch wenn ihr in ein paar Jahren ab und zu mal wieder draufschaut, sowie für mögliche Contributors wäre es m.E. hilfreich einen vollständigen Single Point of Entry zu haben. https://github.com/gang-of-fork/p2p-marketplace-doku bzw. das wiki dahinter (https://github.com/gang-of-fork/p2p-marketplace-doku/wiki/Anforderungsanalyse#value-proposition-canvas...) ist nur bedingt ein guter Einstiegspunkt, da ich z.B. darüber nicht die Links zu den deployten Apps... finden konnte.  
+
+Ich empfehle zusätzlich die Veröffentlichung von Teilen der Präsentationsvideos (welche ihr mir per Telegram gesendet habt) bei rumble.com oder youtube, um möglichen Nutzern und Contributors den Einstieg zu erleichtern.
+
+Bei der [Plantexchange App](https://plantexchange.gang-of-fork.de/) sind mir auch aktuell einige Unregelmäßigkeiten aufgefallen - z.B. beim Login via Metamask vs. Brave Browser. Die In-App Guidance für den User ist suboptimal. Das ist sicherlich dem geschuldet, dass ihr euch im 6. Semester eher auf den OData Parser ... konzentriert habt. 
+
+Die OData Parser Story sowie z.B. dessen Testautomatisierung hat mich geflasht!!! Super. Die Entwicklung mobiler Applikationen wird m.E. stets feingranularer und mit mehr und mehr Open Source Komponenten wahrscheinlich immer effizienter. Dazu habt ihr mit dem OData Parser Projekt m.E. einen super Beitrag geleistet.
+
+Insgesamt könnt ihr Euch angewöhnen viel mehr Links in den einzelnen README Dateien / Wiki Pages etc. anzugeben, um eine klare "Forward Navigation" zu bieten. Auch READMEs werden normalerweise öfter gelesen als geschrieben :) --> Geht möglichst wertschätzend mit der Zeit Eurer Leser um und bietet einen klaren Pfad der Erkenntnis + Education. 
+
+
+
+### Decentralized Chat App
+Da wir die einzelnen Bewertungskriterien bei Euch sehr häufig gemeinsam durchgegangen sind, scheint mir an dieser Stelle nichts mehr groß hinzuzufügen. Toll dass ihr trotz der vielen web3 spezifischen Tool Challenges am Ball geblieben seid. Ich würde mich freuen wenn wir dem Thema Deployment auf Polygon und oder Arbitrum weiter nachgehen, um die Decentralized Chatapp kostengünstig produktiv nutzbar zu machen.
+
+Auch bei Euch ist m.E. der "Single Point of Entry" / bzw. die "Forward Navigation" (z.B. via https://github.com/App-Entwicklung/Pruefungsleistung) optimierungsfähig. So wäre z.B. von hier aus https://github.com/App-Entwicklung/Pruefungsleistung/blob/main/svelte_documentation.md beispielsweise ein Link zur deployten App oder eine Beschreibung wie ein möglicher contributor das frontend lokal startet hilfreich. Für die Flutter App habt ihr das gut gemacht (siehe https://github.com/App-Entwicklung/Pruefungsleistung/blob/main/flutter_documentation.md). Gleichzeitig weiß ich dass die svelte app nur ein workaround war weil flutter zumindest im aktuellen Zustand nicht web3 ready ist.
+
+
+### Allgemein
+Das Interesse, die Begeisterung und die Überzeugung seitens der Studierenden an wertvollen Projekten (mit nach bestem Wissen und Gewissen den am besten passenden Werkzeugen) zu arbeiten hat dazu geführt dass den Projekten sehr viel mehr Zeit geschenkt wurde als dies laut Stundenplan der Studierenden erwartbar gewesen wäre. 
 Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertung der Artefakte kann ich daher nicht anders als die folgenden sehr guten Noten zu geben. 
 
 
-
-## Projekt- / Linksammlung
-| Name | Projektsammlung | Punkte | Note |
-| ---- | ---- | ---- | ---- |
-| Fynn Weyrich  | https://github.com/gang-of-fork | | |
-| Robin Reyer  | https://github.com/gang-of-fork | | |
-| Steffen Huels  | https://github.com/gang-of-fork | | |
-| Maik Kebernik  | https://github.com/gang-of-fork | | |
-| Patrick Vollstedt  | https://github.com/App-Entwicklung | | |
-| Florian Hase  | https://github.com/App-Entwicklung | | |
-| Rebekka Miguez  | https://github.com/App-Entwicklung | | |
-| Matthias Biermanns  | https://github.com/App-Entwicklung | | |
+### Projekt- / Linksammlung
+| Name | Projektsammlung | Vorläufige Anzahl Punkte | 
+| ---- | ---- | ---- |
+| Fynn Weyrich  | https://github.com/gang-of-fork | 116 (1,2) |
+| Robin Reyer  | https://github.com/gang-of-fork | 116 (1,2) |
+| Steffen Huels  | https://github.com/gang-of-fork | 116 (1,2) |
+| Maik Kebernik  | https://github.com/gang-of-fork | 116 (1,2) |
+| Patrick Vollstedt  | https://github.com/App-Entwicklung | 117 (1,1) |
+| Florian Hase  | https://github.com/App-Entwicklung | 117 (1,1) |
+| Rebekka Miguez  | https://github.com/App-Entwicklung | 117 (1,1) |
+| Matthias Biermanns  | https://github.com/App-Entwicklung | 117 (1,1) |
 
 
 ## Genutzte Notenskala
