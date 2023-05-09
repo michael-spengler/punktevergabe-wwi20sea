@@ -59,14 +59,14 @@ Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertun
 ### Projekt- / Linksammlung
 | Name | Projektsammlung | Vorläufige Anzahl Punkte | 
 | ---- | ---- | ---- |
-| Fynn Weyrich  | https://github.com/gang-of-fork | 116 (1,2) |
-| Robin Reyer  | https://github.com/gang-of-fork | 116 (1,2) |
-| Steffen Huels  | https://github.com/gang-of-fork | 116 (1,2) |
-| Maik Kebernik  | https://github.com/gang-of-fork | 116 (1,2) |
-| Patrick Vollstedt  | https://github.com/App-Entwicklung | 118 (1,1) |
-| Florian Hase  | https://github.com/App-Entwicklung | 118 (1,1) |
-| Rebekka Miguez  | https://github.com/App-Entwicklung | 118 (1,1) |
-| Matthias Biermanns  | https://github.com/App-Entwicklung | 118 (1,1) |
+| Fynn Weyrich  | https://github.com/gang-of-fork (Plant Exchange + OData Parser) | 116 (1,2) |
+| Robin Reyer  | https://github.com/gang-of-fork (Plant Exchange + OData Parser) | 116 (1,2) |
+| Steffen Huels  | https://github.com/gang-of-fork (Plant Exchange + OData Parser) | 116 (1,2) |
+| Maik Kebernik  | https://github.com/gang-of-fork (Plant Exchange + OData Parser) | 116 (1,2) |
+| Patrick Vollstedt  | https://github.com/App-Entwicklung (Decentralized Chat App) | 118 (1,1) |
+| Florian Hase  | https://github.com/App-Entwicklung (Decentralized Chat App) | 118 (1,1) |
+| Rebekka Miguez  | https://github.com/App-Entwicklung (Decentralized Chat App) | 118 (1,1) |
+| Matthias Biermanns  | https://github.com/App-Entwicklung (Decentralized Chat App) | 118 (1,1) |
 
 
 ## Genutzte Notenskala
