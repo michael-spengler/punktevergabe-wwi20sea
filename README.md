@@ -72,10 +72,20 @@ Selbst bei sehr differenzierter und kritischer Herangehensweise bei der Bewertun
 ## Genutzte Notenskala
 https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
 
-## Empfehlung bzw. Reminder für die Zukunft
-Da viele der konkreten Technologien dynamisch im Zeitablauf durch andere Technologien (Plattformen, Frameworks, Laufzeitumgebungen, ...) ersetzt werden, empfehle ich stets weiterhin das Thema **Design for Flexibility** hochzuhalten. Hierbei kann es helfen Artefakte extrem modular (Beispiele siehe u.A. https://deno.land gute 3rd Party Modules...) zu gestalten und bereitzustellen um die einzelnen Module bei Bedarf leicht auszutauschen / wiederzuverwenden. 
-Ich spreche diesen Punkt hier so ausdrücklich an weil dieser in der Praxis genauso wie die Testautomatisierung häufig links liegen gelassen wird. Bei der Testautomatisierung weiß es m.E. schon jeder, dass es lediglich an Disziplin fehlt. Zum Punkt der Testautomatisierung ist der [OData Parser](https://github.com/gang-of-fork/odatafy-parser/blob/dev/test/parsing/topParser.test.ts) der Gang of Fork m.E. eines der vorbildlichsten Projekte. Jeder Test ist eine ausführbare Spezifikation. Auch hier wurde klar, dass es im Kontext von Akzeptanz Test getriebener Software Entwicklung (ATDD) keinen fehlerhaften Produktivcode sondern lediglich unvollständige (ausführbare) Spezifikationen (Test Suites) gibt. 
 
-## Danke
-Herzlichen Dank an alle Beteiligten. Ihr wart einer meiner Top 2 Lieblingskurse in meiner bisherigen DHBW Karriere. 
+
+## Empfehlungen bzw. Reminder für die Zukunft
+### Design for Flexibility
+Da viele der konkreten Technologien dynamisch im Zeitablauf durch andere Technologien (Plattformen, Frameworks, Laufzeitumgebungen, ...) ersetzt werden, empfehle ich stets weiterhin das Thema Design for Flexibility hochzuhalten. Hierbei kann es helfen Artefakte extrem modular (Beispiele siehe u.A. https://deno.land gute 3rd Party Modules...) zu gestalten und bereitzustellen um die einzelnen Module bei Bedarf leicht auszutauschen / wiederzuverwenden. 
+Ich spreche diesen Punkt hier so ausdrücklich an weil dieser in der Praxis genauso wie die Testautomatisierung und die Open Source Incentivierung häufig links liegen gelassen wird. 
+
+### Testautomatisierung
+Bei der Testautomatisierung weiß es m.E. schon jeder, dass es lediglich an Disziplin fehlt. Zum Punkt der Testautomatisierung ist der [OData Parser](https://github.com/gang-of-fork/odatafy-parser/blob/dev/test/parsing/topParser.test.ts) der Gang of Fork m.E. eines der vorbildlichsten Projekte. Jeder Test ist eine ausführbare Spezifikation. Auch hier wurde klar, dass es im Kontext von Akzeptanz Test getriebener Software Entwicklung (ATDD) keinen fehlerhaften Produktivcode sondern lediglich unvollständige (ausführbare) Spezifikationen (Test Suites) gibt. 
+
+
+### Open Source Incentivierung
+Wir haben im Laufe der einzelnen Semester gemeinsam erlebt dass es angenehm und super effizient sein kann auf non-proprietäre Technologien zu setzen und die entsprechenden Open Source Tools zu nutzen (https://deno.com, https://ethereum.org, etc.). Gleichzeitig haben wir bemerkt wie wichtig es ist, dass solche Open Source Tools konsequent gewartet / weiterentwickelt werden.   
+Die Optimierung der Incentivierung von Open Source Contributions scheint mir eine der wertvollsten Herausforderungen unserer Zeit um die Gesamteffizienz unserer Zunft als Software Engineers zu steigern...
+
+
 
